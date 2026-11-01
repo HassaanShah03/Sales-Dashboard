@@ -1,4 +1,13 @@
 # Sales-Dashboard
 This repository contains an interactive dashboard designed to monitor and analyze core business performance metrics for an e-commerce platform. It provides a comprehensive view of sales trends, operational efficiency, and customer satisfaction to drive data-informed decision-making.
 
-E-Commerce Revenue & Operations DashboardProject OverviewThis repository contains an interactive Business Intelligence dashboard designed to monitor and analyze core performance metrics for an e-commerce platform. It provides a comprehensive view of sales trends, operational logistics, and customer satisfaction for the period between June 2024 and June 2026. This project is structured to help stakeholders quickly identify revenue bottlenecks, regional performance, and logistical efficiency.   Key Performance Indicators (KPIs)The dashboard tracks the following top-level metrics:   Total Revenue: 5.88 billion.   Total Orders: 248.033K.   Total Customers: 39.909K.   Average Delivery Time: 4.50 Days.   Dashboard Visualizations & InsightsSales Trends (Time-Series): A line chart tracking "Sales per Months/Quarter" to identify seasonal revenue peaks, noting a significant spike in June.   Geospatial Performance: A horizontal bar chart ranking "Sales Per State", highlighting UP, Rajasthan, and Haryana as the top-performing regions.   Order Logistics: A donut chart breaking down "Order Status", showing that the vast majority (approximately 80.05%) of the 248K orders are successfully Delivered.   Transaction Preferences: A column chart comparing "Revenue by Payment Method", revealing UPI as the dominant payment method, followed by COD (Cash on Delivery).   Customer Satisfaction: A donut chart categorizing customer "Ratings", indicating strong customer satisfaction with 93.14% Positive ratings.   Dynamic Filtering: Slicers allowing users to filter the entire dashboard by specific States and Order Dates.   Tech Stack & ToolsData Visualization & Analytics: Power BI (Update if you used Tableau/Excel)Data Processing & Cleaning: Python / SQL / Pandas (Update based on your backend pipeline)
+# Project Overview
+This repository contains an interactive Business Intelligence dashboard designed to monitor and analyze core performance metrics for an e-commerce platform. It provides a comprehensive view of sales trends, operational logistics, and customer satisfaction for the period between June 2024 and June 2026. This project is structured to help stakeholders quickly identify revenue bottlenecks, regional performance, and logistical efficiency.
+
+#Key Performance Indicators (KPIs)
+The dashboard tracks the following top-level metrics:   
+Total Revenue: 5.88 billion.   
+Total Orders: 248.033K.   
+Total Customers: 39.909K.  
+Average Delivery Time: 4.50 Days. 
+
